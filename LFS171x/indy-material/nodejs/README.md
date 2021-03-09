@@ -71,7 +71,7 @@ To install the demonstration on your local machine you need to clone the git rep
 ## Starting the Demonstration
 
 The steps for runnning the demonstration are similar for the `In Browser` and `Local Machine` scenarios:
-
+- Run the command `dos2unix manage` to convert manage file 
 - Run the command `./manage build` to build the components of the software
 - Run the command `./manage up` to run the components
 
